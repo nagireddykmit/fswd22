@@ -9,6 +9,9 @@
   },
   "author": "Shiva Kumar Singani",
   "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  },
   "devDependencies": {
     "lite-server": "^2.6.1"
   }
